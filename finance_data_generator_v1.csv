@@ -1,0 +1,305 @@
+trsnx_id,date,type,category,amount,description
+1,2026-10-28,Revenue,Product Sales,447898,Auto Generated
+2,2026-10-17,Revenue,Product Sales,312335,Auto Generated
+3,2026-10-01,Revenue,Product Sales,171133,Auto Generated
+4,2026-10-15,Revenue,Product Sales,386227,Auto Generated
+5,2026-10-03,Revenue,Product Sales,366610,Auto Generated
+6,2026-10-05,Revenue,Product Sales,112855,Auto Generated
+7,2026-10-09,Revenue,Product Sales,82885,Auto Generated
+8,2026-10-07,Revenue,Product Sales,266420,Auto Generated
+9,2026-10-18,Revenue,Product Sales,199618,Auto Generated
+10,2026-10-23,Revenue,Product Sales,98327,Auto Generated
+11,2026-10-09,Revenue,Product Sales,119386,Auto Generated
+12,2026-10-18,Revenue,Product Sales,378815,Auto Generated
+13,2026-10-11,Revenue,Product Sales,482800,Auto Generated
+14,2026-10-25,Revenue,Product Sales,399845,Auto Generated
+15,2026-10-24,Revenue,Product Sales,475438,Auto Generated
+16,2026-10-14,Revenue,Product Sales,398583,Auto Generated
+17,2026-10-04,Revenue,Product Sales,294930,Auto Generated
+18,2026-10-21,Revenue,Product Sales,81827,Auto Generated
+19,2026-10-14,Revenue,Product Sales,346324,Auto Generated
+20,2026-10-18,Revenue,Product Sales,341453,Auto Generated
+21,2026-10-11,Revenue,Product Sales,488301,Auto Generated
+22,2026-10-08,Revenue,Product Sales,199826,Auto Generated
+23,2026-10-14,Revenue,Product Sales,462197,Auto Generated
+24,2026-10-11,Revenue,Product Sales,148344,Auto Generated
+25,2026-10-17,Revenue,Product Sales,415922,Auto Generated
+26,2026-10-14,Revenue,Product Sales,165475,Auto Generated
+27,2026-10-28,Revenue,Product Sales,486298,Auto Generated
+28,2026-10-06,Revenue,Product Sales,284659,Auto Generated
+29,2026-10-22,Revenue,Product Sales,141751,Auto Generated
+30,2026-10-25,Revenue,Product Sales,177144,Auto Generated
+31,2026-10-12,Revenue,Product Sales,216022,Auto Generated
+32,2026-10-22,Revenue,Product Sales,290003,Auto Generated
+33,2026-10-25,Revenue,Service Revenue,171838,Auto Generated
+34,2026-10-07,Revenue,Service Revenue,51252,Auto Generated
+35,2026-10-02,Revenue,Service Revenue,483160,Auto Generated
+36,2026-10-28,Revenue,Service Revenue,476227,Auto Generated
+37,2026-10-07,Revenue,Service Revenue,320120,Auto Generated
+38,2026-10-06,Revenue,Service Revenue,144741,Auto Generated
+39,2026-10-28,Revenue,Service Revenue,109730,Auto Generated
+40,2026-10-04,Revenue,Service Revenue,396109,Auto Generated
+41,2026-10-12,Revenue,Service Revenue,290887,Auto Generated
+42,2026-10-05,Revenue,Service Revenue,497650,Auto Generated
+43,2026-10-01,Revenue,Service Revenue,252555,Auto Generated
+44,2026-10-08,Revenue,Service Revenue,181958,Auto Generated
+45,2026-10-11,Revenue,Service Revenue,188334,Auto Generated
+46,2026-10-22,Revenue,Service Revenue,126426,Auto Generated
+47,2026-10-02,Revenue,Service Revenue,161077,Auto Generated
+48,2026-10-06,Revenue,Service Revenue,352992,Auto Generated
+49,2026-10-11,Revenue,Service Revenue,179078,Auto Generated
+50,2026-10-27,Revenue,Service Revenue,50870,Auto Generated
+51,2026-10-08,Revenue,Service Revenue,76245,Auto Generated
+52,2026-10-02,Revenue,Service Revenue,490506,Auto Generated
+53,2026-10-02,Revenue,Service Revenue,496238,Auto Generated
+54,2026-10-19,Revenue,Service Revenue,435340,Auto Generated
+55,2026-10-16,Revenue,Other Income,149750,Auto Generated
+56,2026-10-01,Revenue,Other Income,486089,Auto Generated
+57,2026-10-03,Revenue,Other Income,96227,Auto Generated
+58,2026-10-13,Revenue,Other Income,135912,Auto Generated
+59,2026-10-16,Revenue,Other Income,493735,Auto Generated
+60,2026-10-08,Revenue,Other Income,137240,Auto Generated
+61,2026-10-09,Revenue,Other Income,275272,Auto Generated
+62,2026-10-13,Revenue,Other Income,159174,Auto Generated
+63,2026-10-22,Revenue,Other Income,486484,Auto Generated
+64,2026-10-18,Revenue,Other Income,371113,Auto Generated
+65,2026-10-27,Revenue,Other Income,76003,Auto Generated
+66,2026-10-07,Revenue,Other Income,489319,Auto Generated
+67,2026-10-28,Revenue,Other Income,116202,Auto Generated
+68,2026-10-05,Revenue,Other Income,258061,Auto Generated
+69,2026-10-03,Revenue,Other Income,361984,Auto Generated
+70,2026-10-15,Revenue,Other Income,89433,Auto Generated
+71,2026-10-03,Revenue,Other Income,167401,Auto Generated
+72,2026-10-18,Revenue,Other Income,202326,Auto Generated
+73,2026-10-17,Revenue,Other Income,185892,Auto Generated
+74,2026-10-14,Revenue,Other Income,201520,Auto Generated
+75,2026-10-12,Revenue,Other Income,306277,Auto Generated
+76,2026-10-02,Revenue,Other Income,442449,Auto Generated
+77,2026-10-16,Revenue,Other Income,128038,Auto Generated
+78,2026-10-08,Revenue,Other Income,419918,Auto Generated
+79,2026-10-25,Revenue,Other Income,245071,Auto Generated
+80,2026-10-20,Revenue,Other Income,389972,Auto Generated
+81,2026-10-23,Revenue,Other Income,379204,Auto Generated
+82,2026-10-03,Revenue,Other Income,419479,Auto Generated
+83,2026-10-19,Expense,Payroll,103705,Auto Generated
+84,2026-10-20,Expense,Payroll,84841,Auto Generated
+85,2026-10-17,Expense,Payroll,131569,Auto Generated
+86,2026-10-17,Expense,Payroll,6591,Auto Generated
+87,2026-10-08,Expense,Payroll,81083,Auto Generated
+88,2026-10-04,Expense,Payroll,13640,Auto Generated
+89,2026-10-27,Expense,Payroll,54068,Auto Generated
+90,2026-10-25,Expense,Payroll,54900,Auto Generated
+91,2026-10-19,Expense,Payroll,107074,Auto Generated
+92,2026-10-20,Expense,Payroll,103139,Auto Generated
+93,2026-10-14,Expense,Payroll,134219,Auto Generated
+94,2026-10-09,Expense,Payroll,28252,Auto Generated
+95,2026-10-08,Expense,Payroll,50522,Auto Generated
+96,2026-10-23,Expense,Payroll,97319,Auto Generated
+97,2026-10-25,Expense,Payroll,92332,Auto Generated
+98,2026-10-22,Expense,Payroll,52976,Auto Generated
+99,2026-10-24,Expense,Payroll,21184,Auto Generated
+100,2026-10-23,Expense,Payroll,102920,Auto Generated
+101,2026-10-14,Expense,Payroll,148969,Auto Generated
+102,2026-10-07,Expense,Payroll,24413,Auto Generated
+103,2026-10-22,Expense,Payroll,28702,Auto Generated
+104,2026-10-13,Expense,Payroll,32705,Auto Generated
+105,2026-10-17,Expense,Payroll,82677,Auto Generated
+106,2026-10-09,Expense,Payroll,137831,Auto Generated
+107,2026-10-04,Expense,Payroll,69128,Auto Generated
+108,2026-10-04,Expense,Payroll,9914,Auto Generated
+109,2026-10-17,Expense,Payroll,31938,Auto Generated
+110,2026-10-02,Expense,Payroll,54828,Auto Generated
+111,2026-10-22,Expense,Payroll,96169,Auto Generated
+112,2026-10-19,Expense,Payroll,53919,Auto Generated
+113,2026-10-14,Expense,Payroll,137577,Auto Generated
+114,2026-10-24,Expense,Payroll,29181,Auto Generated
+115,2026-10-08,Expense,Payroll,92734,Auto Generated
+116,2026-10-23,Expense,Payroll,52444,Auto Generated
+117,2026-10-17,Expense,Rent,9480,Auto Generated
+118,2026-10-28,Expense,Rent,133428,Auto Generated
+119,2026-10-01,Expense,Rent,144512,Auto Generated
+120,2026-10-05,Expense,Rent,92042,Auto Generated
+121,2026-10-12,Expense,Rent,119179,Auto Generated
+122,2026-10-03,Expense,Rent,103661,Auto Generated
+123,2026-10-23,Expense,Rent,22987,Auto Generated
+124,2026-10-18,Expense,Rent,21286,Auto Generated
+125,2026-10-27,Expense,Rent,140992,Auto Generated
+126,2026-10-24,Expense,Rent,6251,Auto Generated
+127,2026-10-28,Expense,Rent,130428,Auto Generated
+128,2026-10-19,Expense,Rent,48413,Auto Generated
+129,2026-10-21,Expense,Rent,29204,Auto Generated
+130,2026-10-16,Expense,Rent,10571,Auto Generated
+131,2026-10-19,Expense,Rent,138140,Auto Generated
+132,2026-10-07,Expense,Rent,15320,Auto Generated
+133,2026-10-26,Expense,Rent,142534,Auto Generated
+134,2026-10-27,Expense,Rent,135010,Auto Generated
+135,2026-10-13,Expense,Rent,132325,Auto Generated
+136,2026-10-27,Expense,Rent,34062,Auto Generated
+137,2026-10-27,Expense,Rent,22833,Auto Generated
+138,2026-10-04,Expense,Rent,46680,Auto Generated
+139,2026-10-04,Expense,Rent,47703,Auto Generated
+140,2026-10-18,Expense,Rent,133702,Auto Generated
+141,2026-10-10,Expense,Rent,55586,Auto Generated
+142,2026-10-28,Expense,Rent,20763,Auto Generated
+143,2026-10-01,Expense,Rent,31841,Auto Generated
+144,2026-10-19,Expense,Rent,79320,Auto Generated
+145,2026-10-26,Expense,Rent,135781,Auto Generated
+146,2026-10-21,Expense,Rent,53041,Auto Generated
+147,2026-10-15,Expense,Rent,85093,Auto Generated
+148,2026-10-17,Expense,Rent,103514,Auto Generated
+149,2026-10-04,Expense,Rent,12535,Auto Generated
+150,2026-10-25,Expense,Rent,13996,Auto Generated
+151,2026-10-25,Expense,Rent,135334,Auto Generated
+152,2026-10-08,Expense,Rent,104693,Auto Generated
+153,2026-10-15,Expense,Rent,65441,Auto Generated
+154,2026-10-11,Expense,Rent,118391,Auto Generated
+155,2026-10-20,Expense,Rent,96459,Auto Generated
+156,2026-10-20,Expense,Rent,57032,Auto Generated
+157,2026-10-24,Expense,Rent,41697,Auto Generated
+158,2026-10-11,Expense,Rent,34483,Auto Generated
+159,2026-10-12,Expense,Rent,38514,Auto Generated
+160,2026-10-25,Expense,Rent,43257,Auto Generated
+161,2026-10-15,Expense,Rent,93017,Auto Generated
+162,2026-10-13,Expense,Utilities,97947,Auto Generated
+163,2026-10-08,Expense,Utilities,5333,Auto Generated
+164,2026-10-27,Expense,Utilities,111200,Auto Generated
+165,2026-10-26,Expense,Utilities,127127,Auto Generated
+166,2026-10-06,Expense,Utilities,23581,Auto Generated
+167,2026-10-04,Expense,Utilities,69962,Auto Generated
+168,2026-10-21,Expense,Utilities,36888,Auto Generated
+169,2026-10-17,Expense,Utilities,111662,Auto Generated
+170,2026-10-10,Expense,Utilities,42951,Auto Generated
+171,2026-10-14,Expense,Utilities,13885,Auto Generated
+172,2026-10-12,Expense,Utilities,23943,Auto Generated
+173,2026-10-25,Expense,Utilities,110424,Auto Generated
+174,2026-10-18,Expense,Utilities,130550,Auto Generated
+175,2026-10-26,Expense,Utilities,149616,Auto Generated
+176,2026-10-13,Expense,Utilities,98719,Auto Generated
+177,2026-10-07,Expense,Utilities,28408,Auto Generated
+178,2026-10-25,Expense,Utilities,139917,Auto Generated
+179,2026-10-20,Expense,Utilities,67067,Auto Generated
+180,2026-10-18,Expense,Utilities,93201,Auto Generated
+181,2026-10-09,Expense,Utilities,113590,Auto Generated
+182,2026-10-23,Expense,Marketing,37069,Auto Generated
+183,2026-10-26,Expense,Marketing,29571,Auto Generated
+184,2026-10-06,Expense,Marketing,7164,Auto Generated
+185,2026-10-16,Expense,Marketing,59937,Auto Generated
+186,2026-10-27,Expense,Marketing,41600,Auto Generated
+187,2026-10-15,Expense,Marketing,65479,Auto Generated
+188,2026-10-01,Expense,Marketing,18444,Auto Generated
+189,2026-10-03,Expense,Marketing,141290,Auto Generated
+190,2026-10-13,Expense,Marketing,17079,Auto Generated
+191,2026-10-01,Expense,Marketing,78739,Auto Generated
+192,2026-10-13,Expense,Marketing,15885,Auto Generated
+193,2026-10-21,Expense,Marketing,51292,Auto Generated
+194,2026-10-18,Expense,Marketing,98273,Auto Generated
+195,2026-10-14,Expense,Marketing,135298,Auto Generated
+196,2026-10-17,Expense,Marketing,5051,Auto Generated
+197,2026-10-12,Expense,Marketing,123816,Auto Generated
+198,2026-10-21,Expense,Marketing,71429,Auto Generated
+199,2026-10-07,Expense,Marketing,72528,Auto Generated
+200,2026-10-18,Expense,Marketing,49525,Auto Generated
+201,2026-10-22,Expense,Marketing,97809,Auto Generated
+202,2026-10-22,Expense,Marketing,75657,Auto Generated
+203,2026-10-06,Expense,Marketing,79992,Auto Generated
+204,2026-10-26,Expense,Marketing,75045,Auto Generated
+205,2026-10-27,Expense,Marketing,134235,Auto Generated
+206,2026-10-27,Expense,Marketing,49999,Auto Generated
+207,2026-10-20,Expense,Logistics,77070,Auto Generated
+208,2026-10-06,Expense,Logistics,115430,Auto Generated
+209,2026-10-07,Expense,Logistics,85092,Auto Generated
+210,2026-10-03,Expense,Logistics,142453,Auto Generated
+211,2026-10-28,Expense,Logistics,62177,Auto Generated
+212,2026-10-04,Expense,Logistics,5076,Auto Generated
+213,2026-10-22,Expense,Logistics,39897,Auto Generated
+214,2026-10-23,Expense,Logistics,80205,Auto Generated
+215,2026-10-25,Expense,Logistics,37102,Auto Generated
+216,2026-10-28,Expense,Logistics,143670,Auto Generated
+217,2026-10-04,Expense,Logistics,76322,Auto Generated
+218,2026-10-03,Expense,Logistics,100413,Auto Generated
+219,2026-10-10,Expense,Logistics,47839,Auto Generated
+220,2026-10-13,Expense,Logistics,47698,Auto Generated
+221,2026-10-19,Expense,Logistics,28364,Auto Generated
+222,2026-10-04,Expense,Logistics,68983,Auto Generated
+223,2026-10-18,Expense,Logistics,118036,Auto Generated
+224,2026-10-02,Expense,Logistics,28784,Auto Generated
+225,2026-10-14,Expense,Logistics,26253,Auto Generated
+226,2026-10-15,Expense,Logistics,8924,Auto Generated
+227,2026-10-06,Expense,Logistics,129948,Auto Generated
+228,2026-10-07,Expense,Logistics,43913,Auto Generated
+229,2026-10-04,Expense,Logistics,135806,Auto Generated
+230,2026-10-26,Expense,Logistics,31360,Auto Generated
+231,2026-10-07,Expense,Logistics,66828,Auto Generated
+232,2026-10-18,Expense,Logistics,121201,Auto Generated
+233,2026-10-20,Expense,Logistics,127783,Auto Generated
+234,2026-10-16,Expense,Logistics,31974,Auto Generated
+235,2026-10-20,Expense,Logistics,127007,Auto Generated
+236,2026-10-23,Expense,Logistics,19751,Auto Generated
+237,2026-10-02,Expense,Logistics,94781,Auto Generated
+238,2026-10-14,Expense,Logistics,27051,Auto Generated
+239,2026-10-22,Expense,Logistics,142599,Auto Generated
+240,2026-10-14,Expense,Logistics,130378,Auto Generated
+241,2026-10-15,Expense,Logistics,98308,Auto Generated
+242,2026-10-01,Expense,Travel,63280,Auto Generated
+243,2026-10-13,Expense,Travel,27004,Auto Generated
+244,2026-10-01,Expense,Travel,135910,Auto Generated
+245,2026-10-13,Expense,Travel,102155,Auto Generated
+246,2026-10-04,Expense,Travel,103424,Auto Generated
+247,2026-10-28,Expense,Travel,40538,Auto Generated
+248,2026-10-02,Expense,Travel,122635,Auto Generated
+249,2026-10-09,Expense,Travel,28540,Auto Generated
+250,2026-10-04,Expense,Travel,51587,Auto Generated
+251,2026-10-12,Expense,Travel,140979,Auto Generated
+252,2026-10-11,Expense,Travel,60756,Auto Generated
+253,2026-10-05,Expense,Travel,100432,Auto Generated
+254,2026-10-03,Expense,Travel,107955,Auto Generated
+255,2026-10-26,Expense,Travel,84353,Auto Generated
+256,2026-10-21,Expense,Travel,48392,Auto Generated
+257,2026-10-20,Expense,Travel,131967,Auto Generated
+258,2026-10-05,Expense,Travel,146582,Auto Generated
+259,2026-10-21,Expense,Travel,67066,Auto Generated
+260,2026-10-06,Expense,Travel,25136,Auto Generated
+261,2026-10-08,Expense,Travel,101710,Auto Generated
+262,2026-10-28,Expense,Travel,54553,Auto Generated
+263,2026-10-03,Expense,Travel,69482,Auto Generated
+264,2026-10-03,Expense,Travel,43104,Auto Generated
+265,2026-10-09,Expense,Travel,27547,Auto Generated
+266,2026-10-04,Expense,Travel,97023,Auto Generated
+267,2026-10-22,Expense,Travel,57610,Auto Generated
+268,2026-10-23,Expense,Travel,17705,Auto Generated
+269,2026-10-07,Expense,Travel,58867,Auto Generated
+270,2026-10-23,Expense,Travel,99064,Auto Generated
+271,2026-10-03,Expense,Travel,14253,Auto Generated
+272,2026-10-22,Expense,Travel,40759,Auto Generated
+273,2026-10-13,Expense,Other,69332,Auto Generated
+274,2026-10-06,Expense,Other,85228,Auto Generated
+275,2026-10-19,Expense,Other,35819,Auto Generated
+276,2026-10-17,Expense,Other,11150,Auto Generated
+277,2026-10-14,Expense,Other,40627,Auto Generated
+278,2026-10-13,Expense,Other,64552,Auto Generated
+279,2026-10-24,Expense,Other,120806,Auto Generated
+280,2026-10-05,Expense,Other,43138,Auto Generated
+281,2026-10-28,Expense,Other,89677,Auto Generated
+282,2026-10-28,Expense,Other,144049,Auto Generated
+283,2026-10-05,Expense,Other,125155,Auto Generated
+284,2026-10-26,Expense,Other,71080,Auto Generated
+285,2026-10-20,Expense,Other,43775,Auto Generated
+286,2026-10-22,Expense,Other,47773,Auto Generated
+287,2026-10-05,Expense,Other,119865,Auto Generated
+288,2026-10-14,Expense,Other,147403,Auto Generated
+289,2026-10-27,Expense,Other,41628,Auto Generated
+290,2026-10-19,Expense,Other,12627,Auto Generated
+291,2026-10-26,Expense,Other,141805,Auto Generated
+292,2026-10-11,Expense,Other,141598,Auto Generated
+293,2026-10-23,Expense,Other,14158,Auto Generated
+294,2026-10-21,Expense,Other,142750,Auto Generated
+295,2026-10-12,Expense,Other,146844,Auto Generated
+296,2026-10-10,Expense,Other,130154,Auto Generated
+297,2026-10-06,Expense,Other,99547,Auto Generated
+298,2026-10-19,Expense,Other,22315,Auto Generated
+299,2026-10-15,Expense,Other,142178,Auto Generated
+300,2026-10-21,Expense,Other,122875,Auto Generated
+301,2026-10-13,Expense,Other,94112,Auto Generated
+302,2026-10-09,Expense,Other,67267,Auto Generated
+303,2026-10-03,Expense,Other,34819,Auto Generated
+304,2026-10-16,Expense,Other,65125,Auto Generated
