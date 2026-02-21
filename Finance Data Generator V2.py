@@ -1,1 +1,1 @@
-Create Version 2 structure
+Finance Data Genarator V2
