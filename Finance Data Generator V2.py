@@ -13,6 +13,24 @@ def generate_transactions(year: int, month: int):
     rows = []
     trsnx_id = 1
 
+    # Revenue generation
+for cat in revenue_cat:
+    for i in range(random.randint(15,50)):
+        amount = random.randint(50000,500000)
+        day = random.randint(1,28)
+        date_val = datetime.date(year, month, day)
+
+        rows.append((
+            trsnx_id,
+            date_val.isoformat(),
+            "Revenue",
+            cat,
+            amount,
+            "Auto Generated"
+        ))
+
+        trsnx_id += 1
+
     # TODO: generate revenue rows
     # TODO: generate expense rows
 
