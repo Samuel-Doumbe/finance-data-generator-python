@@ -31,6 +31,24 @@ for cat in revenue_cat:
 
         trsnx_id += 1
 
+    # Expense generation
+for cat in expense_cat:
+    for i in range(random.randint(15,50)):
+        amount = random.randint(5000,150000)
+        day = random.randint(1,28)
+        date_val = datetime.date(year, month, day)
+
+        rows.append((
+            trsnx_id,
+            date_val.isoformat(),
+            "Expense",
+            cat,
+            amount,
+            "Auto Generated"
+        ))
+
+        trsnx_id += 1
+
     # TODO: generate revenue rows
     # TODO: generate expense rows
 
