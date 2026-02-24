@@ -13,7 +13,7 @@ def generate_transactions(year: int, month: int):
     rows = []
     trsnx_id = 1
 
-     # Revenue generation
+    # Revenue generation
     for cat in revenue_cat:
         for i in range(random.randint(15,50)):
             amount = random.randint(50000,500000)
@@ -31,7 +31,7 @@ def generate_transactions(year: int, month: int):
     
             trsnx_id += 1
     
-        # Expense generation
+    # Expense generation
     for cat in expense_cat:
         for i in range(random.randint(15,50)):
             amount = random.randint(5000,150000)
@@ -69,4 +69,4 @@ def main():
     print(f"Saved {len(rows)} rows to finance_data_generator_v2.csv")
 
 if __name__ == "__main__":
-    main()Finance Data Genarator V2
+    main()
