@@ -39,22 +39,38 @@ Commercial Finance Manager transitioning into Finance Tech & Data.
   -Basic financial summary
 
 ### V2 - Finance Data Generator (Refactored)
-  -Modular architecture with functions
-  -generate_transactions()
-  -calculate_summary()
-  -save_csv()
-  -Monthly summary export
+  - Modular architecture with reusable functions
+  - generate_transactions()
+  - calculate_summary()
+  - save_csv()
+  - Monthly summary export
+
 ## Features
   - Randomized finance transaction generator
   - Revenue and Expense modeling
   - Monthly financial summary calculation
   - CSV export ready for SQL / Power BI
   - Modular Python architecture
+
 ## Project Architecture
-  main()
-  generate_transactions()
-  calculate_summary()
-  save_csv()
+The application follows a modular structure:
+
+- **main()**
+  - Entry point of the program
+  - Handles user input (year and month)
+  - Orchestrates transaction generation, summary calculation and CSV export
+
+- **generate_transactions(year, month)**
+  - Creates randomized revenue and expense records
+  - Returns a structured list of finance transactions
+
+- **calculate_summary(rows)**
+  - Aggregates totals from generated data
+  - Computes revenue, expenses, profit and margin KPIs
+
+- **save_csv(filename, rows)**
+  - Exports datasets into CSV format
+  - Designed for downstream SQL, Excel or Power BI analysis
 
   
 
