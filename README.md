@@ -29,3 +29,21 @@ The script creates:
 ## Author
 Samuel Doumbe
 Commercial Finance Manager transitioning into Finance Tech & Data.
+
+## Version History
+
+### V1 - Finance Data Generator
+  -Procedural script
+  -Random finance transactions
+  -CSV export
+  -Basic financial summary
+
+### V2 - Finance Data Generator (Refactored)
+  -Modular architecture with functions
+  -generate_transactions()
+  -calculate_summary()
+  -save_csv()
+  -Monthly summary export
+  
+
+
