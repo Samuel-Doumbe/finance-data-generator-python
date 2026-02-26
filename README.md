@@ -44,6 +44,18 @@ Commercial Finance Manager transitioning into Finance Tech & Data.
   -calculate_summary()
   -save_csv()
   -Monthly summary export
+## Features
+  - Randomized finance transaction generator
+  - Revenue and Expense modeling
+  - Monthly financial summary calculation
+  - CSV export ready for SQL / Power BI
+  - Modular Python architecture
+## Project Architecture
+  main()
+  generate_transactions()
+  calculate_summary()
+  save_csv()
+
   
 
 
